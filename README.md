@@ -4,6 +4,8 @@ Light up your world with lumin8it. Hardware doesn't need to be hard. We wanted t
 
 In 24 hours, we created the hardware kit, 3d instructions, web app to click to code the hardware, api to store the programs created from the web app, program interpreter code running on the hardware, and a commercial.
 
+We also won the Best Embedded Wearable Hack (Qualcomm) challenge at Technica 2019!
+
 ## Kit
 
 - includes all hardware components to make one pair of sneakers
